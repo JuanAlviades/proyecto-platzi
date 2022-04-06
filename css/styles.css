@@ -6,7 +6,6 @@ body {
 
 #container {
     width: 70%;
-    padding: 1em;
     text-align: center;
     border: 1px solid #333;
     margin: 0 auto;
@@ -14,4 +13,21 @@ body {
 
 #container h1 {
     font-size: 20px;
+}
+
+#cabecera {
+    background-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin: 0;
+    font-size: 20px;
+    padding: 0.5em;
+    font-weight: bold;
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.75);
+}
+
+#cabecera #tagline {
+    padding: 0 13px 0;
+    font-weight: normal;
+    font-size: 0.8em;
 }
