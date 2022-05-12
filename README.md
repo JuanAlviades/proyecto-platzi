@@ -8,3 +8,4 @@ En este momento, estoy practicando y usando las metodologías del curso para el 
 * Buena fluidez de trabajo
 * Tener buenas prácticas!
 * Seguir practicando.
+* Prueba de cherry-pick
