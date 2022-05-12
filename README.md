@@ -10,3 +10,5 @@ En este momento, estoy practicando y usando las metodologías del curso para el 
 * Seguir practicando.
 * Prueba de cherry-pick
 * Prueba 2
+* Prueba 3
+* Diverso y Divertido
